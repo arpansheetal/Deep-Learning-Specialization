@@ -130,3 +130,33 @@ dmypy.json
 
 #Mac store info
 *.DS_Store
+
+#Images
+*.jpg
+*jpeg
+*.png
+*.gif
+
+# PDF
+*.pdf
+
+#Data
+*.csv
+*.tsv
+*.data
+*.log
+*.h5
+*.txt
+*.mat
+*.npy
+*.midi
+
+#Video
+*.mp4
+
+#Audio
+*.mp3
+*.wav
+
+
+
